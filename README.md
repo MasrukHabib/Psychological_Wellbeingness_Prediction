@@ -39,5 +39,3 @@ An intelligent machine learning web application designed to assess and predict t
 ## Mentor 
 - [Ravikumar R Natarajan ](https://www.linkedin.com/in/ravikumarrn/)
 
-
-
