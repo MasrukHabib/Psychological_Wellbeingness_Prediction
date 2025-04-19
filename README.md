@@ -29,7 +29,7 @@ An intelligent machine learning web application designed to assess and predict t
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-### 📄 To Explore the [Research paper](https://ieeexplore.ieee.org/document/10692172)
+### 📄 To Explore the [Research paper](https://ieeexplore.ieee.org/abstract/document/10947775)
 
 ## Collaborators
 
